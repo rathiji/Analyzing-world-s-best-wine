@@ -8,15 +8,21 @@ Skills: Data cleaning,  Data wrangling, Data visualization, Machine learning.
 
 Objective:
 The objective of this project is to analyze a dataset of wine reviews to identify the world's best wine. The project will use data engineering skills to clean, wrangle, and visualize the data, and then use machine learning to predict the quality of wine.
+             	Identify and understand the relationship between the wine industry and climate change.
+             	Investigate the carbon emissions associated with the fermentation process in wine production.
+             	Find insights and patterns in the data that can contribute to mitigating climate change effects in the wine industry.
+             	Explore alternative approaches, such as the adoption of new grape varieties, to address the challenges posed by climate change.
+             	Provide actionable recommendations to stakeholders in the wine industry for sustainable practices and decision-making.
+
 
 Approach:
       	    Data collection: The first step will be to collect a dataset of wine reviews. There are many publicly available datasets that can be used for this project.
       	    Data cleaning: The next step will be to clean the data. This will involve removing any errors or inconsistencies in the data.
       	    Data wrangling: The data will then be wrangled to prepare it for analysis. This will involve transforming the data into a format that is easy to work with.
-         	Data visualization: The data will then be visualized to explore the relationships between the different variables. This will help to identify any trends or 
-            patterns in the data.
+         	    Data visualization: The data will then be visualized to explore the relationships between the different variables. This will help to identify any trends or 
+                patterns in the data.
       	    Machine learning: Finally, machine learning will be used to predict the quality of wine. This will involve training a model on the data and then using the 
-            model to predict the quality of new wines.
+                model to predict the quality of new wines.
 
 Expected Outcomes:
 The expected outcomes of this project are:
